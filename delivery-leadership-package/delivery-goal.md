@@ -1,10 +1,8 @@
 # Delivery Goal: Evergreen Quote
 
-> Copy this file into `delivery-leadership-package/delivery-goal.md`. One sentence. Read it back to yourself. Then to your pair. Then to someone who wasn't in the room. If they can repeat it, it's good.
-
 ## Goal
 
-> _One sentence here._
+By Thursday, Evergreen Quote is merged to main with green CI and running on a local cluster, serving REST and GraphQL from one database.
 
 ## "Done" looks like
 
@@ -15,7 +13,10 @@
 - The cluster demo shows three API pods behind one Service.
 - A reviewed PR is merged, branch deleted.
 - `delivery-leadership-package/` is complete and committed.
-
+a
 ## Out of scope (this week)
 
-- _What you are intentionally not doing._
+- New products, rating factors, or premium logic beyond the sponsor's three base rates
+- Production AWS deployment; the S3 deploy is reviewed on paper, and the live path is optional
+- Changes to the marketing site beyond reviewing its deploy files
+- Authentication, rate limiting, and partner onboarding

@@ -4,8 +4,8 @@
 **Name:** Evergreen Quote API (Phase 3 service delivery)
 **Delivery week:** 3
 **Delivery Lead:** Ricky Cotton
-**Engineering team (represented by):** 
-**GitHub Project board:** 
+**Engineering team (represented by):** https://github.com/asc1-student10/evergreen-quote-api-delivery
+**GitHub Project board:** https://github.com/users/asc1-student10/projects/6
 
 ## Who is the customer?
 Two groups. The first is Evergreen website visitors who want a quick estimate for auto, home, or life coverage and expect the number to be right and to stay the same when they come back. The second is partners who want to request quotes programmatically instead of through the website. Today, both get a page that computes a number and forgets it.
